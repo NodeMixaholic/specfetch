@@ -6,7 +6,7 @@ To get a simple output:
 ```
 sudo bash specfetch
 ```
-To output to a file:
+To output to a file named specfetch-output.txt:
 ```
 sudo bash specfetch > specfetch-output.txt
 ```
